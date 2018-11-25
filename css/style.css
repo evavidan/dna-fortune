@@ -1,0 +1,142 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #000;
+	text-align: center;	}
+
+
+.option1 {
+	margin: 200px auto 0px auto;
+	margin-top: 500px;
+	font-family: "Tiempos", serif;
+	font-weight:bold;
+	font-size: 100px;
+	color: #FFFFFF;
+	text-align: center;
+    white-space: nowrap
+		
+
+	}
+	
+	.test:hover{
+		text-decoration: underline wavy blue;}
+
+
+	
+
+.test {	
+	margin: 300px auto 0px auto;
+	width:400px;
+	font-family:"Tiempos", serif;
+	font-weight: bold;
+	font-size: 100px;
+	color: #FFFFFF;}
+
+a {
+	text-decoration: blue;}
+
+
+.dna { 
+	margin: 500px auto 0px auto;
+	margin-top: 700px;
+	background-image: url('../html/images/dna_1.png');
+	width: 1920px;
+	height:1080px;
+	overflow:hidden;
+	background-position: center;
+	transition: background-image 0.15s linear;
+
+}
+
+.dna:hover {
+	background-image: url('../html/images/dna_1.5.png');}
+
+
+.dna2 { 
+	margin-top: 700px;
+	margin-left: 1000px;
+	background-image: url('../html/images/dna_2.png');
+	width: 1920px;
+	height:970px;
+	overflow:hidden;
+	background-position: center;
+	transition: background-image 0.10s linear;
+
+}
+
+.dna2:hover {
+	background-image: url('../html/images/dna_2.5.png');
+
+	
+}
+
+
+.dna3 { 
+	margin-top: 700px;
+	margin-left: 1000px;
+	background-image: url('../html/images/dna_3.png');
+	width: 1920px;
+	height:970px;
+	overflow:hidden;
+	background-position: center;
+	transition: background-image 0.10s linear;
+
+}
+
+.dna3:hover {
+	background-image: url('../html/images/dna_3.5.png');
+
+} 
+
+.dna4 { 
+	margin-top: 700px;
+	margin-left: 1000px;
+	background-image: url('../html/images/dna_4.png');
+	width: 1920px;
+	height:970px;
+	overflow:hidden;
+	background-position: center;
+	transition: background-image 0.10s linear;
+
+}
+
+.dna4:hover {
+	background-image: url('../html/images/dna_4.5.png');
+
+}
+
+.dna5 { 
+	margin-top: 700px;
+	margin-left: 1000px;
+	background-image: url('../html/images/dna_5.png');
+	width: 1920px;
+	height:970px;
+	overflow:hidden;
+	background-position: center;
+	transition: background-image 0.10s linear;
+
+}
+
+.dna5:hover {
+	background-image: url('../html/images/dna_5.5.png');
+
+}
+
+.dna6 { 
+	margin-top: 700px;
+	margin-left: 1000px;
+	background-image: url('../html/images/dna_6.png');
+	width: 1920px;
+	height:970px;
+	overflow:hidden;
+	background-position: center;
+	transition: background-image 0.05s linear;
+
+}
+
+.dna6:hover {
+	background-image: url('../html/images/dna_6.5.png');
+
+}
+
